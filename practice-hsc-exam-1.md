@@ -188,7 +188,7 @@ Distinguish between primary data and secondary data in terms of TWO of the follo
 (b) Outline ONE reason why data sampling is used in data analysis. **(2 marks)** ♊️: 2/2
 > Data sampling may be used in data analysis in order to reduce the computational load of generating analytics on big data. This allows researchers to obtain insights, draw conclusions, or understand patterns and trends in datasets without analysing every single data point.
 
-(c) Describe ONE potential issue associated with non-probability sampling methods. **(3 marks)**
+(c) Describe ONE potential issue associated with non-probability sampling methods. **(3 marks)** ♊️: 3/3
 > Non-probability sampling refers to sampling that is based on convience, or other non-random criteria, and hence each member of a population does not have a set probability of being selected for analysis. An example of this is snowball sampling, where participants recruit other participants. As the selection process is not random and the **probability of inclusion** is not controlled, certain **subgroups may be overrepresented or underrepresented**. This can result in false conclusions and biased insights.
 
 **Question 23** (4 marks)
