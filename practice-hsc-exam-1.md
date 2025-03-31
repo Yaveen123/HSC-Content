@@ -212,15 +212,22 @@ https://pastebin.com/aRVyqnc6
 
 Explain how EACH of the following software features can impact data privacy and security:
 
-(a) Use of public Wi-Fi connections vs private connections **(4 marks)**
+(a) Use of public Wi-Fi connections vs private connections **(4 marks)** ♊️: 4/4
+> Negative impact on privacy: Public wifi connections refer to wifi connections that are open to anyone in the public to use. These wifi connections are typically unsecured, meaning data packets in transit are readable if intercepted. Malicious actors who read potentially unencrypted data packets can pose as a significant privacy risk as the confidentiality of the data is compromised. Bad actors can potentially access sensitive data like browsing history through interception on public networks, and potentially obtain PII which can have significant repercussions on the user.
+> Positive impact on privacy: Private wifi refer to wifi connections where only specific, authorised individuals are able to access the wifi connection. This significantly reduces the chances of bad actors from being on a network, protecting the confidieniality of data on the network. Private wifi connections often have security in place to prevent attacks, making it difficult for bad actors from accessing data on the network. 
+> Negative impact on security: As public wifi connections are open to anyone, and are often not secured, anyone can view the contents of data packets if unencrypted. The contents inside can pose a significant security risk, as they could include passwords or sensitive PII. Malicious actors can use this data to log into accounts, risking the integrity and confidientality of data.
+> Positive impact on security: Private wifi connections prevent these attacks, positively impacting data security.
 
-(b) Pre-checked checkboxes in online forms **(4 marks)**
+(b) Pre-checked checkboxes in online forms **(4 marks)** ♊️: 4/4
+> Pre-checked checkboxes play a role that impacts data security and privacy. While pre-checked checkboxes can speed up the user flow of a system, when labels are misleading or represent multiple unrelated actions, pre-checked checkboxes can cause users unknowingly consent to significant data processing actions. This can compromise the privacy of a user's data. Pre-checked checkboxes in online forms also pose a security vulnerability as they could authorise the collection of sensitive data for malicious purposes, and/or authorise the collection of data that could increase the problems associated with a data breach, creating a security vulnerability. An example of pre-checked boxes causing a security vulnerability is opting a user unknowingly into emails that contain phishing links, and/or exposing their emails to unrealiabile, unsecure data vendors. 
 
 **Question 26** (6 marks)
-
-(a) Define data warehousing. **(2 marks)**
+ 
+(a) Define data warehousing. **(2 marks)** ♊️: 2/2
+> Data warehousing refers to the storage of large datasets on a specific large subject, like customer history. Data is collected from multiple sources, cleaned, processed, and integrated into the data warehouse in a time-oriented fashion. This data is non-volatile, as it's often not updated or deleted. Data warehouses facilitate analytics, enabling the discovery of trends, and patterns in historical data. 
 
 (b) Describe how data warehousing supports the analysis of historical trends and patterns, providing ONE specific example. **(4 marks)**
+> Data warehousing is able to support the analysis
 
 **Question 27** (8 marks)
 
