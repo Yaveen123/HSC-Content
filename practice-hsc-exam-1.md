@@ -226,16 +226,18 @@ Explain how EACH of the following software features can impact data privacy and 
 (a) Define data warehousing. **(2 marks)** ♊️: 2/2
 > Data warehousing refers to the storage of large datasets on a specific large subject, like customer history. Data is collected from multiple sources, cleaned, processed, and integrated into the data warehouse in a time-oriented fashion. This data is non-volatile, as it's often not updated or deleted. Data warehouses facilitate analytics, enabling the discovery of trends, and patterns in historical data. 
 
-(b) Describe how data warehousing supports the analysis of historical trends and patterns, providing ONE specific example. **(4 marks)**
-> Data warehousing is able to support the analysis
+(b) Describe how data warehousing supports the analysis of historical trends and patterns, providing ONE specific example. **(4 marks)** ♊️: 2/2
+> Data warehouses store large datasets through the integration of multiple data sources. When integrated into the data warehouse, records are time focused and non-volatile, resulting in a comprehensive outlook on the history of a large subject. For example, a store, ShopSmart, collects data on the large subject of customer behaviour, integrating data from customer purchase history, online shopping activity, search history, and analytical data from 3rd party trackers. Business intelligence tools can generate key insights based on the data warehouse, as they can look for historical trends and patterns in the data. For example, ShopSmart's business intelligence looks at customer purchase history based on time, and finds that during november/december, the sale of christmas-themed chocolates spikes. This promps ShopSmart to increase the availability of christmas-themed chocolates through broadening and increasing the stock of related products and reducing prices.
 
-**Question 27** (8 marks)
+**Question 27** (8 marks) ♊️: 2/2
 
 Explain the purpose of data visualisation in EACH of the following contexts:
 
-(a) Simplifying understanding **(4 marks)**
+(a) Simplifying understanding **(4 marks)** ♊️: 2/2
+> Data visualisation refers to the creation of graphical elements or other visualisation of datasets to increase their accessibility. Visualising datasets often require data sampling, which reduces the cognitive load of processing the data. Visualisation also accentuates trends in datasets, such as a line graph showing the increase in rainfall over a given period. Through these, datasets are simplified to enhance understanding, as they highlight important trends and reduce cognitive of a specific dataset.
 
-(b) Telling a story **(4 marks)**
+(b) Telling a story **(4 marks)** ♊️: 2/2
+> Through the accentuation of trends, data visualisation is able to highlight specific aspects of a dataset and simplify understanding of a dataset. Through that, and the combination of various visualised data sources, data visualisation is able to tell a story. Data visualsations can be arranged and presented in a sequence to guide the audience through a story, for example starting with the context, showing a prolem, and then presenting a solution illustrating the impact. The choice of visuals and annotiatons/labels on visualised data are able to evoke emotion in views, shaping their understanding of a certain story. 
 
 **Question 28** (8 marks)
 
