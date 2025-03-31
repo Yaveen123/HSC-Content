@@ -1,5 +1,9 @@
 For each question, write the SQL query that would retrieve the requested information based on the following hypothetical database schema:
 
+> [!WARNING]
+> SQL Queries are NOT Microsoft Access Queries
+> - `
+
 
 **Customers Table:**
 
