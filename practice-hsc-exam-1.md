@@ -194,12 +194,19 @@ Distinguish between primary data and secondary data in terms of TWO of the follo
 **Question 23** (4 marks)
 
 Outline TWO advantages and TWO disadvantages of using unstructured data compared to structured data.
+> Advantage of unstructured data: Unstructured data can give more rich and nuanced information, unlike structured data which forces data to be constrained into categories.
+> Advantage of unstructured data: The collection of unstructured data can be easier than strucutred data as the data does not need to instantly conform to predefined schema.
+> Disadvantage of unstructure data: Unstructured data can become very difficult to analyse for patterns and trends due to the unsorted nature of the data.
+> Disadvantage of unstructured data: Unstructured data can be difficult to store and manage because of the lack of inherent organisation can result in many varied formats. Relational databases are significantly easier to store, manage, and retireve from due to their structured nature.
 
 **Question 24** (6 marks)
 
-(a) What is a database schema? **(2 marks)**
+(a) What is a database schema? **(2 marks)** ♊️: 2/2
+> A database schema refers to the framework that defines the logical flow and structure of a database. Schema defines distinct tables, the types of data within them, and the attributes (columns) within each table, and the relationships between the data within those tables, like primary and foreign keys. 
 
-(b) Explain the purpose of primary keys and foreign keys in a relational database schema. **(4 marks)**
+(b) Explain the purpose of primary keys and foreign keys in a relational database schema. **(4 marks)** ♊️: 4/4
+https://pastebin.com/aRVyqnc6
+> A relational database schema refers to a schema that defines the structure of the database, the tables and the attributes within them, and the relationships between those tables. These relationships are defined through the use of primary and foreign keys. Using the example of a relational database which stores purchase history of customers, for every customer in the customer table, they will be given a primary key which is a unique representation of them as a record. The customer's unique primary key will be used as a reference for each purchase they make in the foreign purchase history table. The primary key becomes a foreign key. Primary keys are used to uniquely identify a specific record within a table and facilitates the easy retrieval, modification, and deletion of a record within a table. Foreign keys are useful for establishing a relationship between two tables, and the relationship between primary and foreign keys can enforce referential integrity to ensure no foreign key is orphaned. For example, through the use of a foreign key, a relational database system can check that no purchase is created under a customer that doesn't exist, or a customer is not deleted if they have have purchase history in the system. Through foreign keys, relationships like one-to-one, many-to-many, one-to-many, many-to-one relationships can be created, allowing for the efficient organisation and querying of related data across multiple tables. 
 
 **Question 25** (8 marks)
 
