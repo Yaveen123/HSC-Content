@@ -26,12 +26,12 @@ Okay, here is an HSC-style skills-focused test for Module 7: Infectious Disease.
     (A) Bacterium
     (B) Fungus
     (C) Prion
-    (D) Virus
+    ✅ ➡️ (D) Virus
 
 2.  Malaria is transmitted to humans via the bite of an infected *Anopheles* mosquito. This mode of transmission is best described as:
     (A) Direct contact
     (B) Indirect contact (fomite)
-    (C) Vector transmission
+    ✅ ➡️ (C) Vector transmission
     (D) Droplet transmission
 
 3.  The graph below shows the concentration of antibodies in a person's blood following exposure to an antigen.
@@ -39,20 +39,20 @@ Okay, here is an HSC-style skills-focused test for Module 7: Infectious Disease.
     [Imagine a graph showing a small, slow primary response peaking around day 14, then declining. A second exposure around day 28 causes a much larger, faster secondary response peaking around day 35.]
 
     What does the graph demonstrate?
-    (A) The inflammatory response is faster upon second exposure.
+    ➡️ (A) The inflammatory response is faster upon second exposure.
     (B) Phagocytes are less effective during the secondary response.
-    (C) The primary immune response is slower and produces fewer antibodies than the secondary response.
+    ❌ (C) The primary immune response is slower and produces fewer antibodies than the secondary response.
     (D) Passive immunity provides long-lasting protection after initial exposure.
 
 4.  A student designed an experiment to test the effectiveness of different handwashing techniques on reducing bacterial load. Which of the following represents the *dependent* variable?
     (A) The type of soap used.
     (B) The duration of handwashing.
-    (C) The number of bacterial colonies grown on agar plates.
+    ✅  ➡️ (C) The number of bacterial colonies grown on agar plates.
     (D) The temperature of the water used.
 
 5.  Which public health strategy relies primarily on achieving herd immunity within a population?
     (A) Provision of clean drinking water.
-    (B) Widespread vaccination programs.
+    ✅  ➡️ (B) Widespread vaccination programs.
     (C) Use of antibiotics to treat bacterial infections.
     (D) Quarantine measures during an outbreak.
 
