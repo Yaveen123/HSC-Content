@@ -22,7 +22,7 @@ Okay, here is an HSC-style Biology practice exam for Module 8 (Non-infectious Di
 
 **1. Which of the following correctly describes a negative feedback mechanism in homeostasis?**
     (A) A response that amplifies the original stimulus.
-    (B) A response that counteracts the original stimulus to return the body to a set point.
+    ➡️ (B) A response that counteracts the original stimulus to return the body to a set point.
     (C) A process that only involves the nervous system.
     (D) A mechanism that always leads to a pathological condition.
 
@@ -30,23 +30,23 @@ Okay, here is an HSC-style Biology practice exam for Module 8 (Non-infectious Di
     (A) Case-control study
     (B) Intervention trial
     (C) Descriptive study
-    (D) Cohort study
+    ➡️ (D) Cohort study
 
 **3. Which of the following is primarily a genetic disease?**
     (A) Mesothelioma
     (B) Scurvy
-    (C) Cystic Fibrosis
+    ➡️ (C) Cystic Fibrosis
     (D) Lung cancer due to smoking
 
 **4. The maintenance of a relatively constant internal body temperature despite changes in the external environment is known as:**
     (A) Osmoregulation
     (B) Glucoregulation
-    (C) Thermoregulation
+    ➡️ (C) Thermoregulation
     (D) Excretion
 
 **5. An epidemiologist observes a strong correlation between high salt intake and increased blood pressure in a large population study. What can be reasonably concluded?**
     (A) High salt intake definitively causes high blood pressure.
-    (B) There is an association between high salt intake and high blood pressure, warranting further investigation.
+    ➡️ (B) There is an association between high salt intake and high blood pressure, warranting further investigation.
     (C) Reducing salt intake will cure high blood pressure in everyone.
     (D) The study design must have been flawed as correlation does not imply causation.
 
