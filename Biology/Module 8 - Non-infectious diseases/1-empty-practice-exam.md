@@ -58,6 +58,10 @@ Okay, here is an HSC-style Biology practice exam for Module 8 (Non-infectious Di
 **Question 6 (5 marks)**
 Describe the negative feedback loop involved in thermoregulation when a person is exposed to a cold environment. Ensure you identify the stimulus, receptor, control centre, and effector(s) involved.
 
+> Stimulus here is deviation from thermal setpoint caused by cold environmnt. Cold peripheral and core thermoreceptors detect this decrease in ambient and internal temperature respectively, and increase their firing rate in response. The hypothalmus interprets this as a deviation in thermal setpoint, and responds through effectors like vasoconstriction, where blood vessels on the surface constrict to reduce heat loss by convection, conduction and radiation, shivering, where involuntary muscle contractions causes increases in metabolic rate where the byproduct of that is heat. These effectors heat up the body, reducing the firing rate of cold thermoreceptors, signaling that the body's temperature is closer to it's thermal setpoint closing the negative feedback loop.
+  
+
+
 **(Space for answer)**
 
 ---
