@@ -131,27 +131,23 @@ The table below shows data collected from an epidemiological study investigating
 | Low Physical Activity      | 6,000                 | 540                            | 4.5                                    |
 
 (a) Identify the group with the higher incidence rate of CVD. (1 mark)
-
-**(Space for answer)**
+> Low physical activity
 
 (b) Calculate how many times more likely an individual in the 'Low Physical Activity' group is to develop CVD compared to an individual in the 'Regular Physical Activity' group, based on the incidence rates. Show your working. (2 marks)
+> 540/160 = 3.375 times 
 
-**(Space for answer)**
 
 (c) Based on this data, suggest ONE public health recommendation that could be made. (1 mark)
-
-**(Space for answer)**
+> Increase physical activity
 
 (d) Outline ONE limitation of relying solely on this type of data to conclude that low physical activity *causes* CVD. (2 marks)
-
-**(Space for answer)**
+> While higher CVD is correlated with lower activity, cases of CVD can be caused by other factors that arise with lower physical activity. 
 
 ---
 
 **Question 12 (8 marks)**
 Discuss how epidemiological studies contribute to our understanding of a named non-infectious disease. In your answer, include how these studies can inform the development of prevention and treatment strategies for this disease.
 
-**(Space for answer - provide ample space for an extended response)**
 
 ---
 **END OF EXAM**
