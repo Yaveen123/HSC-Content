@@ -76,18 +76,18 @@ The graph below shows the blood glucose levels of two individuals, Person A and 
 **(Space for answer)**
 
 (b) Name ONE hormone responsible for lowering blood glucose levels after the sugary drink. (1 mark)
-
-**(Space for answer)**
+> Insulin
 
 (c) Outline ONE long-term health consequence of poorly managed high blood glucose levels. (1 mark)
-
-**(Space for answer)**
+> Atherosclerosis, where high blood sugar levels damages the blood vessles, causing a build up of plaque in the arteries
 
 ---
 
 **Question 8 (6 marks)**
 Non-infectious diseases can arise from various causes.
 (a) Distinguish between a genetic disease and a disease caused by environmental exposure. (2 marks)
+> Genetic diseases are caused by when mutations or alterations in the DNA cause abnormal cell functioning. Conversely, when environmental risk factors like asbestos interfere with normal cell development, abnormaliaties can occur causing disease.
+
 
 **(Space for answer)**
 
@@ -100,27 +100,25 @@ Non-infectious diseases can arise from various causes.
 **Question 9 (5 marks)**
 Cancer is a significant non-infectious disease.
 (a) Outline how a disruption to the cell cycle can lead to the development of cancer. (3 marks)
+> The cell cycle consists of Gap 1, Synthesis, Gap 2, and Mitosis. Synthesis is when DNA is copied for mitosis. An error in the copying process can conversely alter functionality in tumor suppressor genes which detect abnormalities and reduce cell functionality to prevent tumors. When non-functional, control measures like apoptosis cannot occur leading to uncontrolled cell proliferation.
 
-**(Space for answer)**
 
 (b) Identify TWO factors that can increase an individual's risk of developing cancer. (2 marks)
-
-**(Space for answer)**
+> Exposure to asbestos can cause chronic inflammation, leading to damaged DNA increasing the risk of malignant mesothelioma.
+> Exposure to the sun can damage the DNA in skin cells causing melanoma.
 
 ---
 
 **Question 10 (4 marks)**
 (a) Define epidemiology. (1 mark)
-
-**(Space for answer)**
+> Epidemiology is the study of the causes/risk factors of diseases and disorders and thir incidence, patterns, and prevalance
 
 (b) Outline TWO main purposes of epidemiological studies. (2 marks)
-
-**(Space for answer)**
+> Epidemiological studies aim to find the determinants of a disease or disorder; risk factors and causes
+> They also aim to find the spread of the disease/disorder; their prevalence, incidence and patterns
 
 (c) Name ONE type of epidemiological study. (1 mark)
-
-**(Space for answer)**
+> Case-control
 
 ---
 
