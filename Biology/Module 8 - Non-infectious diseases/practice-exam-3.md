@@ -144,27 +144,14 @@ Ensure your diagram includes the:
 
 (a) Distinguish between structural, physiological, and behavioural adaptations. **(3 marks)**
 
-\
-\
-\
-\
-\
-\
-\
+> Adaptations aim to improve the selective advantage of an organism in it's environment. Physiological adaptations involve changes to how the organism functions (i.e. blood vessels vasodialating in humans when body temperature exceeds setpoint), behavioural is what the organism does to survive (i.e. tree snake seeking shade when hot), and structural is changes to it's physical characteristics (i.e. fur on polar bears provide insulation to cold weather).
 
 (b) The bilby is an Australian endotherm that lives in arid desert environments. Explain how **one** of each type of adaptation (structural, physiological, and behavioural) assists the bilby in maintaining homeostasis. **(4 marks)**
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+Behaviours
+> Bilbys are endotherms; maintaining internal temperature at a fixed setpoint via thermoregulation. When 
+
+
 ---
 
 **Question 13 (8 marks)**
