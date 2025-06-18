@@ -34,13 +34,13 @@ This exam focuses on **Module 8.3: Epidemiology**, drawing on the concepts and s
 
 **1. What is the primary focus of an epidemiological study?**
 (A) To diagnose individual patients with non-infectious diseases.
-(B) To study the distribution, patterns, and causes of disease in populations.
+➡️(B) To study the distribution, patterns, and causes of disease in populations.
 (C) To develop new pharmaceutical treatments for genetic disorders.
 (D) To investigate the cellular mechanisms of cancer development.
 
 **2. In 2022, a town of 10,000 people had 500 existing cases of type 2 diabetes. During 2023, 50 new cases were diagnosed. Which statement is correct?**
 (A) The incidence of diabetes in 2023 was 5%.
-(B) The prevalence of diabetes at the end of 2023 was 5.5%.
+➡️ (B) The prevalence of diabetes at the end of 2023 was 5.5%.
 (C) The incidence of diabetes in 2023 was 5.5%.
 (D) The prevalence of diabetes at the start of 2023 was 0.5%.
 
@@ -48,13 +48,13 @@ This exam focuses on **Module 8.3: Epidemiology**, drawing on the concepts and s
 (A) Case-control study
 (B) Descriptive study
 (C) Intervention study
-(D) Cohort study
+➡️ (D) Cohort study
 
 **4. Researchers are studying the link between working in a chemical factory and the rate of liver cancer. They ensure their study group and control group have a similar proportion of individuals who consume alcohol. What are the researchers attempting to minimise?**
 (A) Recall bias
 (B) Random error
 (C) A confounding factor
-(D) Selection bias
+➡️ (D) Selection bias
 
 **5. The graph below shows the incidence and mortality of a disease over time.**
 
@@ -65,7 +65,7 @@ This exam focuses on **Module 8.3: Epidemiology**, drawing on the concepts and s
 **What is the most likely conclusion that can be drawn from this graph?**
 (A) The disease is becoming more deadly over time.
 (B) Fewer people are getting the disease, and treatments are becoming more effective.
-(C) The number of new cases is decreasing, but the death rate for those with the disease is increasing.
+➡️ (C) The number of new cases is decreasing, but the death rate for those with the disease is increasing.
 (D) The total number of people living with the disease is increasing.
 
 ---
@@ -77,80 +77,54 @@ This exam focuses on **Module 8.3: Epidemiology**, drawing on the concepts and s
 The booklet you studied included a case study on the link between smoking and lung cancer. The graph below is similar to one presented.
 
 <img src="https://i.imgur.com/gK2J37a.png" alt="Graph showing per capita cigarette consumption peaking around 1960 and lung cancer deaths peaking around 1980." width="500">
+![image](https://github.com/user-attachments/assets/5476fa61-7288-459d-925f-d05d71202be7)
+
 
 *(Image adapted from graph on page 9 of source material)*
 
 (a) Describe the trends shown in the graph for both cigarette consumption and lung cancer deaths. **(2 marks)**
-\
-\
-\
+> The graph shows a positive trend in cigarettes sold per adult per day reaching a peak of 10-11 cigarettes/adult/day in 1960, then steadily declines onwards. Moreover, the rate of lung cancer deaths per 100000 men steadily increase, reaching a peak in 1990 at 55/100000 men, then steadily declining. 
+
 (b) Explain the time lag of approximately 20-25 years between the peak in cigarette consumption and the peak in lung cancer deaths. **(2 marks)**
-\
-\
-\
+> Smoking introduces carcinogens which damages DNA in lung cells, causing mutations that tumors that accumulate into cancerous tissue, which over 20-25 years can develop into a fatal state. The highest exposure of carcinogens in cigarettes leads to the peak in incidence of lung cancer, which develops into a fatal state 20-25 years after.
+
 (c) This graph shows a strong correlation but does not prove causation. Outline ONE other type of evidence that was required to establish smoking as the cause of the lung cancer epidemic. **(3 marks)**
-\
-\
-\
-\
-\
+> An experimental study is required. Researchers need to see if carcinogens found in cigarettes damage DNA in lungs, causing lung cancer. This can be done through animal models, where incidence of lung tumor development in animals exposed vs not exposed is observed. If carcinogens are proven to cause tumour onset, then researchers can establish causation between lung cancer epidemic and carcinogen exposure due to increased cigarette use
+
 ---
 **Question 7** (10 marks)
 
 A researcher is conducting an epidemiological study to investigate if exposure to a specific pesticide used in agriculture increases the risk of developing Parkinson's disease, a non-infectious neurodegenerative disorder.
 
 (a) The researcher decides to conduct a case-control study. Describe the method for this study. **(3 marks)**
-\
-\
-\
-\
-\
+> The researcher will gather participants who have parkinsons and participants who do not have parkinsons. The researcher will look at participant activity history and observe exposure to the specific pesticide. The researcher will compare the frequency of pesticide exposure to those in the parkinsons group vs non-parkinsons group. The researcher must ensure controls like age, gender, and lifestyle are matched throughout both groups.
+
 (b) Identify ONE example of selection bias and ONE example of information bias that could occur in this study. **(4 marks)**
-\
-\
-\
-\
-\
+> Selection bias: volunteer bias - those who choose to participate in the study may be a specific part of the population and may not actually represent the full population
+> Information bias: recall bias - participants may not be able to accurately recall their experiences with pesticides
+
 (c) Evaluate the benefits of conducting this epidemiological study for the community. **(3 marks)**
-\
-\
-\
-\
-\
+> The results of the study will inform pesticide usage within the community. If the study conclusively finds a strong correlation with parkinsons and pesticide usage, the community may reduce or eliminate their use of that specific pesticide. This may lead to a decereased incidence of parkinsons, benefitting the community.
+
 ---
 **Question 8** (13 marks)
 
 The prevention and management of cervical cancer in Australia is a major public health success story. Information and data related to this were presented in your booklet.
 
 (a) The Human Papillomavirus (HPV) is the primary cause of cervical cancer. Explain the biological mechanism by which HPV infection can lead to the development of cancer. **(3 marks)**
-\
-\
-\
-\
-\
+> -- _memory of specific cases are not shown in exam_
+
 (b) Australia has implemented two key strategies to reduce the incidence of cervical cancer: a national screening program and a national vaccination program.
 
 Analyse how EACH of these strategies works to reduce the incidence and mortality of cervical cancer. **(4 marks)**
-\
-\
-\
-\
-\
+> Screening program: A screening program detects and treats pre-cancerous cells. This catches the cancer early, reducing the mortality rate of cervical cancer. This prevents the progression of pre-cancerous cells, reducing the incidence of cervical cancer
+> Vaccination of boys and girls against HPV: By reaching herd immunity against HPV, which is one of the leading causes of cervical cancer, the incidence rate is reduced, thus also reducing mortality rates.
+
 (c) Evaluate the effectiveness of using epidemiological studies and public health programs to manage and prevent a non-infectious disease, using cervical cancer in Australia as an example. **(6 marks)**
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+> Effectiveness of epidiemological studies mg&prev ccancer: 
+> Effectiveness of public health programs mg&prev ccancer:
+> 
+
 ---
 **End of Examination**
 ---
